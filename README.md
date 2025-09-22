@@ -19,9 +19,8 @@ This project explores how vulnerabilities such as SQL Injection, XSS, and weak a
 📄 **Full Report PDF:**  
 [View Full Report](docs/technical-vulnerability-assessment-2024-NO.pdf)
 
-*Note: This report is written in Norwegian.*
-
-The complete penetration test report with methodology, findings, and mitigation recommendations is available as a PDF file.
+*Note: This report is written in Norwegian.*  
+**PS:** The PDF opens directly in GitHub’s built-in viewer for easy reading, no download required.
 
 ---
 
