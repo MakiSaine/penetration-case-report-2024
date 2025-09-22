@@ -19,7 +19,7 @@ This project explores how vulnerabilities such as SQL Injection, XSS, and weak a
 📄 **Full Report PDF:**  
 [View Full Report](docs/technical_vulnerability_assessment.pdf)
 
-You can scroll through the entire report directly on GitHub.
+The complete penetration test report with methodology, findings, and mitigation recommendations is available as a PDF.
 
 ---
 
@@ -70,3 +70,4 @@ Working with a real but safe-to-hack web application provided a realistic penetr
 ---
 
 *Created by **Mahamed Maki Saine** – Cybersecurity Enthusiast | Ethical Hacker | AI Learner*
+
