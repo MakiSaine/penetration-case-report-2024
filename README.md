@@ -17,9 +17,11 @@ This project explores how vulnerabilities such as SQL Injection, XSS, and weak a
 ## Read the Full Report
 
 📄 **Full Report PDF:**  
-[View Full Report](docs/technical_vulnerability_assessment.pdf)
+[View Full Report](docs/technical-vulnerability-assessment-2024-NO.pdf)
 
-The complete penetration test report with methodology, findings, and mitigation recommendations is available as a PDF.
+*Note: This report is written in Norwegian.*
+
+The complete penetration test report with methodology, findings, and mitigation recommendations is available as a PDF file.
 
 ---
 
@@ -29,7 +31,7 @@ The complete penetration test report with methodology, findings, and mitigation 
 - Identify and exploit vulnerabilities (SQLi, XSS, weak session handling)  
 - Demonstrate proof-of-concept exploitation in a safe environment  
 - Recommend mitigations based on OWASP Top 10 and NIST CSF  
-- Produce clear and professional documentation with evidence
+- Produce clear and professional documentation with evidence  
 
 ---
 
@@ -39,7 +41,7 @@ The complete penetration test report with methodology, findings, and mitigation 
 - **Scanning & Enumeration:** Manual and automated testing (Burp Suite, Nikto)  
 - **Exploitation:** Performed SQL Injection and XSS payloads to confirm impact  
 - **Documentation:** Collected screenshots and detailed write-ups for each step  
-- **Mitigation Recommendations:** Suggested fixes and best practices for secure deployment
+- **Mitigation Recommendations:** Suggested fixes and best practices for secure deployment  
 
 ---
 
