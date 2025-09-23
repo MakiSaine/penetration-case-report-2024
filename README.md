@@ -19,8 +19,10 @@ This project explores how vulnerabilities such as SQL Injection, XSS, and weak a
 📄 **Full Report PDF:**  
 [View Full Report](docs/technical-vulnerability-assessment-2024-NO.pdf)
 
-*Note: This report is written in Norwegian.*  
-**PS:** The PDF opens directly in GitHub’s built-in viewer for easy reading, no download required.
+<p><strong><em><span style="color:red">
+Note: This report is written in Norwegian.<br>
+PS: The PDF opens directly in GitHub’s built-in viewer for easy reading, no download required.
+</span></em></strong></p>
 
 ---
 
@@ -71,4 +73,5 @@ Working with a real but safe-to-hack web application provided a realistic penetr
 ---
 
 *Created by **Mahamed Maki Saine** – Cybersecurity Enthusiast | Ethical Hacker | AI Learner*
+
 
