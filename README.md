@@ -26,6 +26,15 @@ PS: The PDF opens directly in GitHub’s built-in viewer for easy reading, no do
 
 ---
 
+## Presentation
+
+📑 **Vulnerability Review Presentation:**  
+[View the Presentation](./technical-vulnerability-assessment-2024-NO.pptx)
+
+This slide deck provides a visual overview of the vulnerability assessment, including screenshots, methodology steps, and a summary of recommended mitigations.
+
+---
+
 ## Objectives
 
 - Map the attack surface through reconnaissance  
@@ -73,5 +82,3 @@ Working with a real but safe-to-hack web application provided a realistic penetr
 ---
 
 *Created by **Mahamed Maki Saine** – Cybersecurity Enthusiast | Ethical Hacker | AI Learner*
-
-
