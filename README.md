@@ -72,5 +72,5 @@ Working with a real but safe-to-hack web application provided a realistic penetr
 
 ---
 
-*Created by **Mahamed Maki Saine** – Cybersecurity Enthusiast | Ethical Hacker | AI Learner*
+*Created by **Mahamed Maki Saine** – Cybersecurity | Ethical Hacker | AI Learner*
 
